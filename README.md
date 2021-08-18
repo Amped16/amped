@@ -9,11 +9,7 @@
 - 📖 I love open source projects 💙
 - 👴 I'm currently 17 years old
 - 🏫 I study ICT course
-
-### Currently working on 👨‍💻
-
-[![as_carthief](https://github-readme-stats.vercel.app/api/pin/?username=Amped16&repo=as_carthief&q=2020)](https://github.com/Amped16/as_carthief)
-
+- 
 ### Connect with me:
 
 [<img align="left" alt="Amped | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
